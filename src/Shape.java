@@ -19,6 +19,7 @@ import java.util.Scanner;
             Shape obj = new Shape();
             obj.draw();
             obj.erase();
+             // this line is written by sushant 
         }
     }
 
